@@ -5,5 +5,5 @@
 https://daniellegut.work/Tanks/
 
 # Controls
-WASD + SPACEBAR 
-ARROW KEYS + ENTER
+WASD + SPACEBAR and
+ARROW KEYS + ENTER for other player
